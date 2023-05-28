@@ -1,5 +1,5 @@
-# welcome to my profile..
-## facts bout me down here.
+# HELLO!:_:_:_:
+## what? Hypersleep - Voyager
 - hello im sizquirt
 - >:( 🤣😀😥😳🥱
 
