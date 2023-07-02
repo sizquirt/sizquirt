@@ -1,7 +1,6 @@
-# HELLO!:_:_:_:
-## what? Hypersleep - Voyager
-- hello im sizquirt
-- >:( 🤣😀😥😳🥱
+# HELLO
+###wassup
+chromium is trash
 
 
 
