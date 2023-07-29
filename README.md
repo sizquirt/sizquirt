@@ -4,5 +4,8 @@
 ### i love cheese
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sizquirt)](https://git.io/streak-stats)
+
+
 
 
