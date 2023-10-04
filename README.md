@@ -4,7 +4,7 @@
 ### i love cheese
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sizquirt&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sizquirt&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
 
 
 
