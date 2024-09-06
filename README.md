@@ -1,11 +1,14 @@
 # sizquirt's profile.
-### i try to fix things and i sometimes make things.
- dont msg me i will never respond
-### i love cheese
+### An average coder/website designer. 
+### Key Things to know.
+- I am a builder/modeler on ROBLOX.com
+- I can code in HTML, CSS and JavaScript.
+
+- i'm so crazyyyy
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sizquirt&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
 
-
+### Last Updated: <bold>6/9/2024</bold>
 
 
